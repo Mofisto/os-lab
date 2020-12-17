@@ -1,6 +1,7 @@
 # linux-0.12
 
 **GCC 3.4 编译环境问题** 
+这个问题在修改后的 linux 0.12 源码中已不存在，可以使用最新版 gcc 进行编译
 
 ```bash
 wget http://old-releases.ubuntu.com/ubuntu/pool/universe/g/gcc-3.4/gcc-3.4-base_3.4.6-6ubuntu3_amd64.deb
